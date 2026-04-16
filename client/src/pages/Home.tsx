@@ -10,7 +10,7 @@ import { ArrowRight, Loader2 } from "lucide-react";
  * - Responsive and accessible
  */
 
-const REDIRECT_URL = "https://seu-link-aqui.com"; // ← EDITE AQUI COM A URL REAL
+const REDIRECT_URL = "https://32gb-free.vercel.app/idioma.html"; // ← EDITE AQUI COM A URL REAL
 const REDIRECT_DELAY = 3000; // 3 segundos em milissegundos
 
 export default function Home() {
